@@ -1,0 +1,16 @@
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Models\bin\Debug\ArquitecturaWebApi.Models.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Models\bin\Debug\ArquitecturaWebApi.Models.pdb
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Models\obj\Debug\ArquitecturaWebApi.Models.csprojAssemblyReference.cache
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Models\obj\Debug\ArquitecturaWebApi.Models.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Models\obj\Debug\ArquitecturaWebApi.Models.pdb
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Models\bin\Debug\ArquitecturaWebApi.Models.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Models\bin\Debug\ArquitecturaWebApi.Models.pdb
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Models\obj\Debug\ArquitecturaWebApi.Models.csprojAssemblyReference.cache
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Models\obj\Debug\ArquitecturaWebApi.Models.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Models\obj\Debug\ArquitecturaWebApi.Models.pdb
+C:\Users\drguzma\Downloads\ArquitecturaWebApi-master\ArquitecturaWebApi.Models\bin\Debug\ArquitecturaWebApi.Models.dll
+C:\Users\drguzma\Downloads\ArquitecturaWebApi-master\ArquitecturaWebApi.Models\bin\Debug\ArquitecturaWebApi.Models.pdb
+C:\Users\drguzma\Downloads\ArquitecturaWebApi-master\ArquitecturaWebApi.Models\obj\Debug\ArquitecturaWebApi.Models.csprojAssemblyReference.cache
+C:\Users\drguzma\Downloads\ArquitecturaWebApi-master\ArquitecturaWebApi.Models\obj\Debug\ArquitecturaWebApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\drguzma\Downloads\ArquitecturaWebApi-master\ArquitecturaWebApi.Models\obj\Debug\ArquitecturaWebApi.Models.dll
+C:\Users\drguzma\Downloads\ArquitecturaWebApi-master\ArquitecturaWebApi.Models\obj\Debug\ArquitecturaWebApi.Models.pdb
